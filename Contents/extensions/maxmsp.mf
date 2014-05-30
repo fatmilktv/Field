@@ -1,3 +1,0 @@
-Field-Property-Append-java-source-paths: ../extras/maxfield/src
-Field-RedirectionPath: ../extras/maxfield/bin
-Field-PluginClass: field.extras.max.MaxPlugin
